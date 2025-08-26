@@ -1,0 +1,15 @@
+José da Silva Santos;111.222.333-44;jose.santos@email.com;(11)91234-5678;45;false;Comerciante
+Maria das Graças Oliveira;222.333.444-55;maria.gracas@email.com;(11)92345-6789;32;true;Professora
+Pedro Henrique Costa;333.444.555-66;pedro.costa@email.com;(21)93456-7890;28;false;Engenheiro
+Ana Beatriz Lima;444.555.666-77;ana.lima@email.com;(21)94567-8901;35;true;Médica
+Carlos Alberto Pereira;555.666.777-88;carlos.pereira@email.com;(31)95678-9012;52;false;Advogado
+Lucia Regina Almeida;666.777.888-99;lucia.almeida@email.com;(31)96789-0123;41;true;Enfermeira
+Roberto Carlos Silva;777.888.999-00;roberto.silva@email.com;(41)97890-1234;38;false;Contador
+Fernanda Cristina Souza;888.999.000-11;fernanda.souza@email.com;(41)98901-2345;29;true;Jornalista
+Eduardo Mendes Rocha;999.000.111-22;eduardo.rocha@email.com;(51)99012-3456;46;false;Policial Civil
+Claudia Santos Ferreira;000.111.222-33;claudia.ferreira@email.com;(51)99123-4567;33;true;Psicóloga
+Gabriel Rodrigues Nunes;111.222.333-45;gabriel.nunes@email.com;(11)91234-5679;25;false;Estudante
+Isabela Gomes Araújo;222.333.444-56;isabela.araujo@email.com;(11)92345-6780;31;true;Arquiteta
+Rafael Alves Barbosa;333.444.555-67;rafael.barbosa@email.com;(21)93456-7891;42;false;Motorista
+Camila Silva Martins;444.555.666-78;camila.martins@email.com;(21)94567-8902;27;false;Vendedora
+Thiago Costa Oliveira;555.666.777-89;thiago.oliveira@email.com;(31)95678-9013;39;true;Mecânico

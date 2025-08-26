@@ -1,0 +1,18 @@
+2024001;FURTO;Furto de celular na estação de metrô;false;4;2024-01-15T14:30:00;01310-100;Avenida Paulista;Centro;São Paulo;SP;1;1
+2024002;ROUBO;Assalto a mão armada em via pública;true;8;2024-01-16T20:15:00;22070-900;Rua das Flores;Copacabana;Rio de Janeiro;RJ;2;2
+2024003;HOMICIDIO;Homicídio doloso em bar;false;10;2024-01-17T23:45:00;30112-000;Rua da Bahia;Centro;Belo Horizonte;MG;3;3
+2024004;FURTO_VEICULO;Furto de veículo em estacionamento;false;6;2024-01-18T08:20:00;80010-000;Rua XV de Novembro;Centro;Curitiba;PR;4;4
+2024005;TRAFICO;Tráfico de drogas em escola;true;9;2024-01-19T16:00:00;90010-150;Rua dos Andradas;Centro;Porto Alegre;RS;5;5
+2024006;ESTELIONATO;Golpe do PIX em idoso;false;5;2024-01-20T10:30:00;01310-200;Rua Augusta;Consolação;São Paulo;SP;6;6
+2024007;LESAO_CORPORAL;Agressão em bar da região;false;7;2024-01-21T22:10:00;22071-000;Rua Barata Ribeiro;Copacabana;Rio de Janeiro;RJ;7;7
+2024008;FURTO;Furto em residência durante ausência;false;5;2024-01-22T14:00:00;30113-000;Rua Tamoios;Centro;Belo Horizonte;MG;8;8
+2024009;ROUBO_VEICULO;Roubo de carro no sinal;true;9;2024-01-23T18:45:00;80020-000;Avenida Marechal Deodoro;Centro;Curitiba;PR;9;9
+2024010;VIOLENCIA_DOMESTICA;Violência doméstica contra mulher;false;8;2024-01-24T21:30:00;90020-000;Rua Voluntários da Pátria;Santana;Porto Alegre;RS;10;10
+2024011;FURTO;Furto de bicicleta no parque;false;3;2024-01-25T07:15:00;04567-000;Rua Pamplona;Jardins;São Paulo;SP;1;11
+2024012;ROUBO;Roubo de celular no transporte público;false;6;2024-01-26T17:20:00;22080-000;Avenida Atlântica;Copacabana;Rio de Janeiro;RJ;2;12
+2024013;HOMICIDIO;Homicídio em briga de trânsito;false;10;2024-01-27T12:40:00;30140-000;Rua Goiás;Barro Preto;Belo Horizonte;MG;3;13
+2024014;FURTO_COMERCIO;Furto em loja de roupas;false;4;2024-01-28T15:50:00;80030-000;Rua Barão do Rio Branco;Centro;Curitiba;PR;4;14
+2024015;TRAFICO;Apreensão de drogas em operação;true;7;2024-01-29T03:00:00;90030-000;Avenida Borges de Medeiros;Centro;Porto Alegre;RS;5;15
+
+
+
